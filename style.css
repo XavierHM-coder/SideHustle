@@ -712,6 +712,13 @@ main{
   width:100%;
 }
 
+.btn-full-sub{
+  width:20%;
+  background-color: #898989;
+  color: #ffffff;
+
+}
+
 
 /* =========================================================
    TYPOGRAPHY
@@ -1563,6 +1570,18 @@ main{
   line-height:1;
 
   margin-bottom:18px;
+}
+
+.pricesub{
+  font-family:var(--display);
+
+  font-size:0.8rem;
+
+  line-height:1;
+
+  margin-bottom:18px;
+
+  color: #429bda;
 }
 
 
